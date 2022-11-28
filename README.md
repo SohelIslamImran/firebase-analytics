@@ -1,2 +1,3 @@
-# analytics-js
-A Node.js client for Google Analytics
+# firebase-analytics
+
+A Node.js client for Google Firebase Analytics

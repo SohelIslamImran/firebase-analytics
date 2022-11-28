@@ -1,0 +1,13 @@
+{
+  "include": ["./src/FirebaseAnalytics.ts"],
+  "compilerOptions": {
+    "target": "ES6",
+    "strict": true,
+    "outDir": "./lib",
+    "declaration": true,
+    "module": "commonjs",
+    "skipLibCheck": true,
+    "esModuleInterop": true
+  },
+  "exclude": ["node_modules"]
+}
