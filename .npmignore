@@ -1,4 +1,7 @@
-
+package-lock.json
 tsconfig.json
 tslint.json
 .prettierrc
+src/
+node_modules/
+.gitignore
