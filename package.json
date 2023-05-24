@@ -1,6 +1,6 @@
 {
   "name": "firebase-analytics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js client for Google Firebase Analytics",
   "main": "lib/FirebaseAnalytics.js",
   "types": "lib/FirebaseAnalytics.d.ts",

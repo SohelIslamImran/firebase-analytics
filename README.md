@@ -7,3 +7,9 @@ A pure JavaScript Google Firebase Analytics implementation that uses the HTTPS M
 This class provides an alternative for the Firebase Analytics module shipped with the Firebase JS SDK.
 
 FirebaseAnalytics provides a bare-bone implementation of the new HTTPS Measurement API 2 protocol (which is undocumented), with an API that follows the Firebase Analytics JS SDK.
+
+### install the package
+
+```sh
+    npm i firebase-analytics
+```
